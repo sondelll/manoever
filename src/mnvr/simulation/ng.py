@@ -40,7 +40,7 @@ class AgentNGSimulation:
         self.car = Vehicle(
             'scenario_player0',
             model='bastion',
-            part_config=f"{self.cfg.car_path}"
+            part_config=f"{self.cfg.user_folder}/0.27/vehicles/bastion/manoever_test_car.pc"
         )
         
         
@@ -194,7 +194,7 @@ class AgentNGSimulation:
         vehicle = Vehicle(
             'scenario_player0',
             model='bastion',
-            part_config=f"{self.cfg.car_path}"
+            part_config=f"{self.cfg.user_folder}/0.27/vehicles/bastion/manoever_test_car.pc"
         )
         vehicle.sensors.attach('dmg', Damage())
         vehicle.sensors.attach('elec', Electrics())
