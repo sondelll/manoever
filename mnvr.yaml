@@ -1,0 +1,6 @@
+beam_installation: "C:/BeamNG.tech/0.27.1"
+user_folder: "C:/Users/lukas/AppData/Local/BeamNG.drive"
+runtime_host: "localhost"
+runtime_port: 64256
+car_path: "C:/Users/lukas/AppData/Local/BeamNG.drive/0.27/vehicles/bastion/manoever_test_car.pc"
+simulation_hz: 60

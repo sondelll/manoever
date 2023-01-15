@@ -1,0 +1,7 @@
+sc_version: 1
+name: 'Manoever Scenario 1A'
+level: "west_coast_usa"
+path: "/levels/west_coast_usa/scenarios/mnvr_s1a.json"
+start_pos: [-8.000, 4.000, 119.610]
+start_rot: [0.0, 0.0, 185.0]
+procedural_objects: False

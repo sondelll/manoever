@@ -1,0 +1,21 @@
+name: manoever-test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pip=22.3.1
+  - wheel=0.38.1
+  - ipykernel=6.17.0
+  - ipython=8.6.0
+  - jupyter_client=7.4.4
+  - jupyter_core=4.11.2
+  - pip:
+    - tensorflow==2.10
+    - pillow==9.3.0
+    - pytest
+    - beamngpy==1.25.1
+    - numpy==1.23.4
+    - termcolor==2.1.0
+    - matplotlib==3.6.2
+    - scikit-learn==1.1.3
