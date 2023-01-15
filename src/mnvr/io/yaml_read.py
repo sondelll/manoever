@@ -41,7 +41,6 @@ class MnvrConfig:
         self.runtime_port = data['runtime_port']
         self.beam_installation = data['beam_installation']
         self.runtime_host = data['runtime_host']
-        self.car_path = data['car_path']
         self.sim_hz = data['simulation_hz']
             
     def get_prebaked_beamng(self):
