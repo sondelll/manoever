@@ -1,6 +1,8 @@
 # Manöver
 _Autonomous driving with reinforcement learning_
 
+Footage of experimental training available [on YouTube](https://youtu.be/_jTDQwjW8to)
+
 ## Prerequisites
 * Python 3.9
 * Tensorflow 2.10
